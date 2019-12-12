@@ -1,7 +1,10 @@
 ---
 name: Security bug report
 about: Create a report to tell us about a security problem
-labels: Security
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Vulnerability Details**

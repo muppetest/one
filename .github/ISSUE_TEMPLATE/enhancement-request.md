@@ -1,6 +1,9 @@
 ---
 name: Enhancement request
 about: Suggest an idea to improve OpenNebula
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
